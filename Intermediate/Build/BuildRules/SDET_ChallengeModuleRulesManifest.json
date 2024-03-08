@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Source/SDET_Challenge/SDET_Challenge.Build.cs",
+		"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Source/SDET_Challenge.Target.cs",
+		"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Source/SDET_ChallengeEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

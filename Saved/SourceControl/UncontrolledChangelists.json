@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/ChallengeMap.umap",
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/Tests/FT_PlayerHealth.uasset",
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/Tests/FT_HealPlayerByPercent.uasset",
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/Tests/FT_HealPlayer.uasset",
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/Tests/FT_DamagePlayer.uasset",
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/Tests/FT_UnalivePlayer.uasset",
+				"/Users/alex/Desktop/UE5Projects/SDET_Challenge/Content/Blueprints/BP_EventDispatcher.uasset"
+			]
+		}
+	]
+}
